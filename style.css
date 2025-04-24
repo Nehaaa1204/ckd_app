@@ -78,7 +78,7 @@ input{
 input:focus, select:focus, textarea:focus {
     border-color: #4f46e5;
     outline: none;
-    background: #333;
+    /*background: #333;*/
     box-shadow: 0 0 10px rgba(79, 70, 229, 0.3);
 }
 
@@ -137,7 +137,7 @@ button:hover, .stButton>button:hover {
 
 /* Prediction Form */
 .form-container {
-    background: rgba(20, 20, 20, 0.95);  /* Darker shade for contrast */
+  /*  background: rgba(20, 20, 20, 0.95);   Darker shade for contrast */
     padding: 25px;
     border-radius: 12px;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
